@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "224eefb6-472a-45a5-82b6-e5b9f43cac6c": {
+      "ProjectGuid": "224eefb6-472a-45a5-82b6-e5b9f43cac6c",
+      "DisplayName": "Homeworks",
+      "ColorIndex": 0
+    },
+    "817c561e-1bc3-45dd-8118-1d0d9e87ab8a": {
+      "ProjectGuid": "817c561e-1bc3-45dd-8118-1d0d9e87ab8a",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
